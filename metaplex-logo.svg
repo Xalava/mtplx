@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="23"
+   viewBox="0 0 200 23"
+   fill="none"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="metaplex-logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     id="namedview20"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.593085"
+     inkscape:cx="144.20613"
+     inkscape:cy="4.2086591"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18" />
+  <path
+     d="M 28.1427,0 H 24.39033 V 15.0325 L 15.6677,0 H 12.4749 L 3.7523,15.0325 V 0 H 0 V 22.7273 H 3.6865 L 14.0549,4.8052 24.45617,22.7273 h 3.68653 z"
+     fill="#ffffff"
+     id="path2" />
+  <path
+     d="M100.61 22.7273H104.724L94.0266 0H90.373L79.6754 22.7273H83.7899L85.6331 18.7662H98.7335L100.61 22.7273ZM87.3777 15.0649L92.1833 4.83766L96.989 15.0649H87.3777Z"
+     fill="white"
+     id="path8" />
+  <path
+     d="m 158.95448,22.81376 3.75215,-0.05903 -1.5e-4,-3.64227 v 0 -16.741943 l -3.752,-2.2840568 z"
+     fill="#ffffff"
+     id="path12"
+     sodipodi:nodetypes="ccccccc"
+     style="fill:#ff5555" />
+  <path
+     style="fill:#ff5555;stroke-width:0.108;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 158.95434,11.424531 V 0.14129727 l 0.35227,0.22555067 c 0.19375,0.12405288 1.02229,0.62879288 1.84121,1.12164446 l 1.48893,0.8960937 0.001,10.1615889 10e-4,10.161589 h -1.84263 -1.84264 z"
+     id="path505" />
+</svg>
